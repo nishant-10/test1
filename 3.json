@@ -1,6 +1,7 @@
 {
   "name": "John",
   "age": 21,
+  "age_in_text": "twenty one",
   "lucky_numbers": [
     2,
     65,
