@@ -1,4 +1,14 @@
 {
-  "name":"John",
-  "age":21
+  "name": "John",
+  "age": 21,
+  "lucky_numbers": [
+    2,
+    65,
+    23
+  ],
+  "address": {
+    "state": "ST",
+    "city": "CY",
+    "province": "PV"
+  }
 }
