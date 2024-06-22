@@ -1,1 +1,1 @@
-sole purpose of this repository is helping me learn new stuff about git ;) 
+sole purpose of this repository is to help me learn new stuff about git ;) 
